@@ -1,6 +1,11 @@
 # BMI-Calculator
 Based on person's entered height (in meters) and weight (in kg), calculate their BMI (body mass index) plus return their BMI interpretation.
 
+## BMI-Calculator ##
+
+![Tip Calculator Example](<https://github.com/Ongoing-Knowledge-Scraping/Tip-Calculator/blob/main/BMI-Calculator.gif> "Running the code")
+
+
 ## View on Replit ##
 https://replit.com/@kpatzer/BMI-Calculator
 
